@@ -10,7 +10,7 @@ https://bit.ly/slides-mk-security-2024
 
 ## Projekt für den Workshop
 
-Dieser Workshop benutzt ein Beispielprojekt für sämtliche Übungsaufgaben. Dieses ist [HIER](TBA) zu finden.
+Dieser Workshop benutzt ein Beispielprojekt für sämtliche Übungsaufgaben. Dieses ist [HIER](https://github.com/martinakraus/angular-security) zu finden.
 
 ## Exercises
 
