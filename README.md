@@ -6,7 +6,7 @@ In diesem Workshop lernen Sie zusammen mit Martina Kraus wie sie gängige Sicher
 
 ## Slides
 
-https://bit.ly/slides-mk-security-2024
+[Angular Web Application Security](https://docs.google.com/presentation/d/1y4xju-cKpY2znPp0_ClReQhR1h0kIQqQU6YtFaNBIVY/edit?usp=sharing)
 
 ## Projekt für den Workshop
 
